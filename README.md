@@ -26,7 +26,6 @@
   <!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>-->
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
 
 # **自己紹介**
 ```yaml
@@ -46,3 +45,14 @@
 'interests': 'Software'
 'technical_field': 'Backend'
 ```
+
+# **統計データ**
+
+<!-- streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hayatto9217&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
+
+
+
