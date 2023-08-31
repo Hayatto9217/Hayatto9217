@@ -26,5 +26,22 @@
   <!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>-->
 </div>
 
+# **自己紹介**
+```yaml
+'言語': '日本語'
+'名前': '徳山'
+'居住地': '大阪'
+'職業': '大学生　（25卒）'
+'専攻': '経済学/IOT'
+'興味のある分野': 'ソフトウェア技術全般/ 量子力学'
+'技術領域': 'バックエンド'
 
+'lang': 'English'
+'name': 'tokuyama'
+'located_in': 'Osaka（Japan）'
+'current_job': 'UniversityStudent'
+'major': 'Economy'
+'interests': 'Software'
+'technical_field': 'Backend'
+```
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
