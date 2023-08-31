@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" height="150px"/>
   <div id="badges">
     <a href="https://qiita.com/haruto19">
       <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
