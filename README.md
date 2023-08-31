@@ -26,6 +26,8 @@
   <!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>-->
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
+
 # **自己紹介**
 ```yaml
 '言語': '日本語'
@@ -44,4 +46,3 @@
 'interests': 'Software'
 'technical_field': 'Backend'
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
