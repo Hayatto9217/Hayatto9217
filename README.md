@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://haru.haru869217.com/">
-       <img src="https://img.shields.io/badge/blog--yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Blogr Badge"/>
+       <img src="https://img.shields.io/badge/Blog--yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blogr Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
