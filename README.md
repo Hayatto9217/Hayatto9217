@@ -14,6 +14,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B">
+  <img src="https://img.shields.io/badge/Go-night-skyblue?logo=go">
+  <img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust">
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -22,12 +25,6 @@
 <div align="center">
   <!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>-->
 </div>
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-night-skyblue?logo=go"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust"></a>
-</p>
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
