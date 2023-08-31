@@ -1,9 +1,29 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" height="150px"/>
+  <div id="badges">
+    <a href="https://qiita.com/haruto19">
+      <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
+    </a>
+    <a href="https://twitter.com/haruto869217">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCPERZaq8WqB_yIoUy9sse1g">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://haru.haru869217.com/">
+       <img src="https://img.shields.io/badge/blog--_.svg?style=social&logo=blogger" alt="Blogr">
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
+  <h1>
+    Hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>
+</div>
 <p>
-  <a href="https://www.linkedin.com/in/haruto-tokuyama-72b002225/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/haruto869217"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.youtube.com/channel/UCPERZaq8WqB_yIoUy9sse1g"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
-  <a href="https://haru.haru869217.com/"><img src="https://img.shields.io/badge/blog--_.svg?style=social&logo=blogger" alt="Blogr"></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B"></a>
   <a href="#"><img src="https://img.shields.io/badge/Go-night-skyblue?logo=go"></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust"></a>
