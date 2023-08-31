@@ -12,5 +12,4 @@
 <!-- I'm studying game-related topics in python/go and c++ on a daily basis. -->
 
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
