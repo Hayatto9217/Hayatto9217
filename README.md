@@ -55,4 +55,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
 
 
+# **執筆記事**
+<a src="https://qiita.com/haruto19">
+  <img src="./img/qiita-text.svg" height="40px" width="100px">
+</a>
+
+<!-- BLOG-POST-LIST:START -->
+- [ETC：DSRC技術](https://qiita.com/haruto19/items/3b91f91a23c185fda3de)
+- [(入門) ソフトウェアテスト](https://qiita.com/haruto19/items/c55cd6ee291332861254)
+<!-- BLOG-POST-LIST:END -->
+
 
