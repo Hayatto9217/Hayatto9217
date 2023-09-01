@@ -30,15 +30,15 @@
 # **自己紹介**
 ```yaml
 '言語': '日本語'
-'名前': '徳山'
-'居住地': '大阪'
+'名前': '徳山晴大'
+'居住地': '大阪府'
 '職業': '大学生　（25卒）'
 '専攻': '経済学/IOT'
 '興味のある分野': 'ソフトウェア技術全般/ 量子力学'
 '技術領域': 'バックエンド'
 
 'lang': 'English'
-'name': 'tokuyama'
+'name': 'Haruto tokuyama'
 'located_in': 'Osaka（Japan）'
 'current_job': 'UniversityStudent'
 'major': 'Economy'
