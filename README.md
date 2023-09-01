@@ -42,7 +42,7 @@
 'located_in': 'Osaka（Japan）'
 'current_job': 'UniversityStudent'
 'major': 'Economy'
-'interests': 'Software'
+'interests': 'Software/ Quantum Information'
 'technical_field': 'Backend'
 ```
 
