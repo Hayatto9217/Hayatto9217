@@ -65,4 +65,6 @@
 - [(入門) ソフトウェアテスト](https://qiita.com/haruto19/items/c55cd6ee291332861254)
 <!-- BLOG-POST-LIST:END -->
 
+# **気になる技術**
+
 
