@@ -49,8 +49,6 @@
 # **統計データ**
 
 <!-- streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hayatto9217&theme=dark&background=000000)](https://git.io/streak-stats)
-
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=Hayatto9217&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayatto9217&theme=dark)|
 | :---: | :---: |
 |![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Hayatto9217&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Hayatto9217&theme=dark&hide_border=true)|
