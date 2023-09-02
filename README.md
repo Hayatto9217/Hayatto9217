@@ -71,5 +71,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 📊**気になる技術**
-
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
