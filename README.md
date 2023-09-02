@@ -1,3 +1,4 @@
+## 🌐 Socials:
 <div id="header" align="center">
   <div id="badges">
     <a href="https://qiita.com/haruto19">
@@ -46,13 +47,15 @@
 'technical_field': 'Backend'
 ```
 
-# **統計データ**
+# 💻 **統計データ**
 
 <!-- streak -->
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=Hayatto9217&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayatto9217&theme=dark)|
 | :---: | :---: |
 |![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Hayatto9217&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Hayatto9217&theme=dark&hide_border=true)|
 
+
+## 🏆 GitHub Trophies
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
 
@@ -67,6 +70,6 @@
 - [(入門) ソフトウェアテスト](https://qiita.com/haruto19/items/c55cd6ee291332861254)
 <!-- BLOG-POST-LIST:END -->
 
-# **気になる技術**
+# 📊**気になる技術**
 
 
