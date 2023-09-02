@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <!-- トロフィー -->
-![](https://github-profile-trophy.vercel.app/?username=Hayatto9217&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Hayatto9217&theme=gruvbox)
 
 
 # **執筆記事**
