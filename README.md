@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <!-- トロフィー -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Hayatto9217/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Hayatto9217&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 
 # **執筆記事**
