@@ -62,7 +62,7 @@
 
 # **執筆記事**
 <a src="https://qiita.com/haruto19">
-  <img src="./img/Qiita_text.png" height="40px" width="100px">
+  <img src="./img/Qiita_text.png" height="40px" width="110px">
 </a>
 
 <!-- BLOG-POST-LIST:START -->
