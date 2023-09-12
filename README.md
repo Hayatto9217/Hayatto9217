@@ -63,7 +63,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
