@@ -89,6 +89,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ETC：DSRC技術](https://qiita.com/haruto19/items/3b91f91a23c185fda3de)
 - [(入門) ソフトウェアテスト](https://qiita.com/haruto19/items/c55cd6ee291332861254)
+- [「DB設計」・基礎を自分の経験からまとめてみた](https://qiita.com/haruto19/items/05f1df481dd30add7c1f)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊**気になる技術**
