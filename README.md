@@ -58,24 +58,11 @@
   <a href="https://go.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
 
 <br/>  
-
-
-# **執筆記事**
-<a src="https://qiita.com/haruto19">
-  <img src="./img/Qiita_text.png" height="40px" width="110px">
-</a>
-
-<!-- BLOG-POST-LIST:START -->
-- [ETC：DSRC技術](https://qiita.com/haruto19/items/3b91f91a23c185fda3de)
-- [(入門) ソフトウェアテスト](https://qiita.com/haruto19/items/c55cd6ee291332861254)
-- [「DB設計」・基礎を自分の経験からまとめてみた](https://qiita.com/haruto19/items/05f1df481dd30add7c1f)
-<!-- BLOG-POST-LIST:END -->
 
 # 📊**気になる技術**
 <code><a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  </code>
