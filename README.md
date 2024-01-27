@@ -63,5 +63,7 @@
 
 <br/>  
 
-# 📊**Interesting Technology**
-<code><a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a></code>
+## 📊Interesting Technology
+<div align="center">
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
+</div>
