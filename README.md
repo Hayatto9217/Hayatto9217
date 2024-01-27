@@ -7,9 +7,6 @@
     <a href="https://twitter.com/haruto869217">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCPERZaq8WqB_yIoUy9sse1g">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://haru.haru869217.com/">
        <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=homepage&logoColor=white" alt="Homepage Badge"/>
     </a>
@@ -33,23 +30,9 @@
 ```yaml
 'lang': 'English'
 'name': 'Hayatto'
-'located_in': 'Japan'
-'current_job': 'UniversityStudent'
-'interests': 'low-level layer/ Quantum Information'
+'located_in': 'Japan`
+'interests': 'low-level layer'
 ```
-
-## 💻My Data
-
-<!-- streak -->
-|![](https://github-readme-stats-six-azure.vercel.app/api?username=Hayatto9217&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayatto9217&theme=dark)|
-| :---: | :---: |
-|![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Hayatto9217&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Hayatto9217&theme=dark&hide_border=true)|
-
-
-## 🏆GitHub Trophies
-<!-- トロフィー -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Hayatto9217&theme=gruvbox)
-
 
 
 ## Languages and Tools  
