@@ -28,7 +28,7 @@
 </div>
 
 
-#🧠**自己紹介**
+## 🧠Intro
 ```yaml
 'lang': 'English'
 'name': 'Hayatto'
@@ -37,7 +37,7 @@
 'interests': 'low-level layer/ Quantum Information'
 ```
 
-# 💻 **統計データ**
+## 💻My Data
 
 <!-- streak -->
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=Hayatto9217&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hayatto9217&theme=dark)|
@@ -45,7 +45,7 @@
 |![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=Hayatto9217&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=Hayatto9217&theme=dark&hide_border=true)|
 
 
-## 🏆 GitHub Trophies
+## 🏆GitHub Trophies
 <!-- トロフィー -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hayatto9217&theme=gruvbox)
 
@@ -53,7 +53,6 @@
 
 ## Languages and Tools  
 <div align="center">  
-  <a href="https://go.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
