@@ -13,8 +13,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
   <img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B">
-  <img src="https://img.shields.io/badge/Go-night-skyblue?logo=go">
-  <img src="https://img.shields.io/badge/Rust-shark-yellow?logo=Rust">
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
