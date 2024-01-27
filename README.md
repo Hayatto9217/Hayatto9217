@@ -41,6 +41,7 @@
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
   <a href="https://grafana.com/" target="_blank"><img style="margin: 20px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="50" /></a>
   <a href="https://www.debian.org/" target="_blank"><img style="margin: 20px" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian" height="50" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img style="margin: 20px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="50" /></a>
 </div>  
 
 <br/>  
