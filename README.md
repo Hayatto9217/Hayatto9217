@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## 🌐Socials
 <div id="header" align="center">
   <div id="badges">
     <a href="https://qiita.com/haruto19">
@@ -28,7 +28,6 @@
 
 ## 🧠Intro
 ```yaml
-'lang': 'English'
 'name': 'Hayatto'
 'located_in': 'Japan`
 'interests': 'low-level layer'
