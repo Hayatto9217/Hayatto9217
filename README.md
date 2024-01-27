@@ -31,12 +31,10 @@
 #🧠**自己紹介**
 ```yaml
 'lang': 'English'
-'name': 'Haruto tokuyama'
-'located_in': 'Osaka（Japan）'
+'name': 'Hayatto'
+'located_in': 'Japan'
 'current_job': 'UniversityStudent'
-'major': 'Economy'
-'interests': 'Software/ Quantum Information'
-'technical_field': 'Backend'
+'interests': 'low-level layer/ Quantum Information'
 ```
 
 # 💻 **統計データ**
@@ -59,11 +57,11 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+  <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
 </div>  
 
 <br/>  
 
-# 📊**気になる技術**
-<code><a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  </code>
+# 📊**Interesting Technology**
 <code><a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a></code>
