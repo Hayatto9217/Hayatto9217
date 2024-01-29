@@ -1,8 +1,8 @@
 ## 🌐Socials
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://qiita.com/haruto19"><img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/></a>
-    <a href="https://twitter.com/haruto869217/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="X"/></a>
+    <a href="https://qiita.com/haruto19"><img src="https://img.shields.io/badge/Qiita--_.svg?style=social&logo=qiita" alt="Qiita"></a>
+    <a href="https://twitter.com/haruto869217/"><img src="https://img.shields.io/badge/X--_.svg?style=social&logo=twitter" alt="X"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
   <img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B">
