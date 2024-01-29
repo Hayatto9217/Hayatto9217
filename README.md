@@ -1,12 +1,8 @@
 ## 🌐Socials
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://qiita.com/haruto19">
-      <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
-    </a>
-    <a href="https://twitter.com/haruto869217">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    <a href="https://qiita.com/haruto19"><img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/></a>
+    <a href="https://twitter.com/haruto869217/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="X"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
   <img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B">
@@ -16,10 +12,7 @@
   </h1>
     <img src="https://count.getloli.com/get/@:hayatto9217" alt=":hayatto9217" />
 </div>
-<div align="center">
-  <!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>-->
-</div>
-
+<div align="center"><!--<img src="https://giphy.com/gifs/80s-back-to-the-future-happening-now-ktRHi4nFxNDOw" width="600" height="300"/>--></div>
 
 ## 🧠Intro
 ```yaml
@@ -27,7 +20,6 @@
 'located_in': 'Japan`
 'interests': 'low-level layer'
 ```
-
 
 ## Languages and Tools  
 <div align="center">  
