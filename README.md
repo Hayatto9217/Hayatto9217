@@ -7,9 +7,6 @@
     <a href="https://twitter.com/haruto869217">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://haru.haru869217.com/">
-       <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=homepage&logoColor=white" alt="Homepage Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hayatto9217&style=flat-square&color=blue" alt="views"/>
   <img src="https://img.shields.io/badge/C%2B%2B-lover-pink?logo=C%2B%2B">
