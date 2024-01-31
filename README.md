@@ -17,7 +17,7 @@
 ## 🧠Intro
 ```yaml
 'name': 'Hayatto'
-'located_in': 'Japan`
+'phrase': 'Any sufficiently advanced technology is indistinguishable from magic.'
 'interests': 'low-level layer'
 ```
 
