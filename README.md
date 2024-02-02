@@ -23,6 +23,7 @@
 
 ## Languages and Tools  
 <div align="center">  
+  ![GitHub persona](https://read-413014.an.r.appspot.com/create?username=tomoish)
   <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
